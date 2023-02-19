@@ -1,0 +1,9 @@
+pwd
+cd
+cd ..
+touch
+cat
+cat >
+cat >>
+mkdir
+rmdir
