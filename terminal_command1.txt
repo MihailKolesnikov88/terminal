@@ -7,3 +7,5 @@ cat >
 cat >>
 mkdir
 rmdir
+find
+grep
