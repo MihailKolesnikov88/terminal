@@ -9,3 +9,4 @@ mkdir
 rmdir
 find
 grep
+history
