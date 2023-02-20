@@ -1,0 +1,31 @@
+{
+"Skills after course": { 
+			"Testing theory",
+			"Theory of client-server architecture",
+			"HTTP Methods of requests to the server",
+			"JSON, XML",
+			"API testing",
+			"Removing and reading logs from an external server",
+			"Sniffing http web traffic via Charles and Fiddler",
+			"Dev Tools of web browsers",
+			"Command line (terminal) Linux",
+			"Basics of bash scripting, automation of routine tasks on the server",
+			"Access to remote servers",
+			"SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+			"Postgres database (installation, configuration and use)",
+			"Non-relational database Redis (installation, configuration and use)",
+			"Load testing in Jmeter",
+			"Scrum development methodology",
+			"Mobile testing": { 
+						"Feature iOS, Android, guidelines",
+						"Building iOS applications on XCode",
+						"Building Android applications on Android Studio",
+						"ADB (android device management)",
+						"Setting up proxy and vpn on iOS and Android",
+						"Sniffing of mobile traffic via Charles and Fiddler on iOS and Android"
+					},
+			"Python. (Learning the basics. Creating a client-server application)"
+
+}
+
+}
