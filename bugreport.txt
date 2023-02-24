@@ -1,0 +1,22 @@
+Bug report
+   
+   Number: 1,
+   Summary: "name of the bug",
+   Date submitted: "__/__/____",
+   Assigned to: "developer name",
+   Priority: "Lov/Normal/High",
+   Severity: "Blocker/Critical/Major/Minor/Trivial",
+   Preconditions: 
+                 Step 1: "text",
+                 Step 2: "text"
+                                    
+   Steps to reproduce: 
+                 Step 1: "text",
+                 Step 2: "text",
+                 Step 3: "text",
+                 Step 4: "text"
+                                      
+                 Actual result: "text",  
+                 Expected result: "text",
+                 Attachment: "link/foto/video",
+                 Environment: "Device/Brauser version"
