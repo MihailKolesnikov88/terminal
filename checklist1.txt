@@ -1,5 +1,5 @@
 
 Id: "numder"
-Check: "text"
+Check: "test description"
 Status: "Pass/Fail/No tested"
 Commenr: "text"
