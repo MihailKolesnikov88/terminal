@@ -1,4 +1,4 @@
-Выполнение ДЗ https://docs.google.com/spreadsheets/d/1qOzzFXphwm5GrR_j3C9v5wx-FyFepX2IpFraJx5_ZHI/edit?usp=share_link
+Сценарии выполнение ДЗ https://docs.google.com/spreadsheets/d/1qOzzFXphwm5GrR_j3C9v5wx-FyFepX2IpFraJx5_ZHI/edit?usp=share_link
 
 
 
