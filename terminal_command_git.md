@@ -1,3 +1,6 @@
+### Most used commands for github
+|*Command*|*Description*|
+|:---|:---|
 |git status|		- проверка состояния файлов|
 |git add . 		|- добавление всех файлов на комит|
 |git add 'file'		|- добавление конкретного файла на комит|
@@ -7,7 +10,7 @@
 |git config --global user.name 'name'| - прописываем имя пользователя с удаленного репозитория|
 |git config --global user.email 'mail'| - прописываем почту |
 |ssh-keygen -t rsa -c 'user name'| - создаем ключ SSH|
-|.gitignore 		- создание файла для добавления во внутрь списка файлов для игнорирования|
+|.gitignore 	|	- создание файла для добавления во внутрь списка файлов для игнорирования|
 |git branch	|	- проверяем на какой ветке мы находимся|
 |git branch name_branch |	- создаем новую ветку|
 |git checkout |		- переход на заданную ветку|
