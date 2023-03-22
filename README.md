@@ -1,5 +1,9 @@
 :computer: # terminal
----
+----
+
+[Сценарий выполнения ДЗ Terminal](https://docs.google.com/spreadsheets/d/1hmrMq0i6-971rL_1uv9kwYkYFO4cadTYXv5RUiGts1E/edit?usp=share_link)
+
+----
 
 [Сценарий выполнения ДЗ GitHub](https://docs.google.com/spreadsheets/d/1qOzzFXphwm5GrR_j3C9v5wx-FyFepX2IpFraJx5_ZHI/edit?usp=share_link)
 
